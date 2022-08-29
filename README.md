@@ -4,4 +4,4 @@ Projeto realizado com a utilização de HTMl,CSS e JavaScript junto com React. E
 ### Demosntração do Projeto:
 <img src='src/images/demo-solar-system.gif' alt='demo do projeto'></img>;
 
-### Link para acessar o projeto: https://jeancarlos-sc.github.io/Project-Solar-System/
+### Link para acessar o projeto: https://project-solar-system-blond.vercel.app/
